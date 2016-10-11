@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="ArabicToRomanTest.jnlp">
+  <information>
+    <title>Sample JavaFX Application</title>
+    <vendor>Unknown vendor</vendor>
+    <description>Sample JavaFX 2.0 application.</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="ArabicToRomanTest.jar" size="3301" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="0" height="0" main-class="ArabicToRomanTest"  name="ArabicToRomanTest" />
+  <update check="background"/>
+</jnlp>
